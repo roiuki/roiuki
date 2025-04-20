@@ -1,14 +1,3 @@
-<h2 align="center">About me</h2>
-
-###
-
-<h5 align="center">👿⛔<br>I'm currently learning assembly, and I already have quite a bit of knowledge in it!<br>I have AIHA, which keeps me indoors often, so I learned coding quickly!<br>Fun fact: I wrote a program about 80% in MASM, only for it to break after an update I pushed!<br>I AM SENSEI LVL90 ON BA.</h5>
-
-###
-
-<div align="center">
-  <img height="256" src="https://i.imgflip.com/9qcisc.jpg"  />
-</div>
 
 ###
 
